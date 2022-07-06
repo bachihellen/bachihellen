@@ -1,4 +1,4 @@
-- 👋 olá,meu nome é @bachihellen
+- 👋 olá,meu nome é hellen ;)
 - 👀 Eu estou aprendendo atualmente a programar jogos no Scratch e JavaScript 
 - 🌱 Tenho 15 years
 - 💞️ Gosto de mim
