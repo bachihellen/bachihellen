@@ -1,8 +1,9 @@
 - 👋 olá,meu nome é @bachihellen
-- 👀 eu estou aprendendo atualmente a programar jogos no Scratch e JavaScript 
-- 🌱 Tenho curiosidade em aprender páginas na web
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Eu estou aprendendo atualmente a programar jogos no Scratch e JavaScript 
+- 🌱 Tenho 15 years
+- 💞️ Gosto de mim
+- 📫 sou gada porca
+
 
 <!---
 bachihellen/bachihellen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
