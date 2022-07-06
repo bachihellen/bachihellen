@@ -2,8 +2,7 @@
 - 👀 Eu estou aprendendo atualmente a programar jogos no Scratch e JavaScript 
 - 🌱 Tenho 15 years
 - 💞️ Gosto de mim
-- 📫 435678985
-
+- 📫 Sou limda
 
 <!---
 bachihellen/bachihellen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
