@@ -1,8 +1,8 @@
 - 👋 olá,meu nome é hellen ;)
 - 👀 Eu estou aprendendo atualmente a programar jogos no Scratch e JavaScript 
 - 🌱 Tenho 15 years
-- 💞️ Gosto de mim
-- 📫 Sou limda
+- 💞️ Gosto de jogar bola, correr...
+- 📫 
 
 <!---
 bachihellen/bachihellen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
