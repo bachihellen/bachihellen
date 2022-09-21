@@ -1,6 +1,6 @@
 - 👋 olá,meu nome é hellen ;)
 - 👀 Eu estou aprendendo atualmente a programar jogos no Scratch e JavaScript 
-- 🌱 Tenho 15 years
+- 🌱 Tenho 15 anos
 - 💞️ Gosto de jogar bola, correr...
 - 📫 
 
